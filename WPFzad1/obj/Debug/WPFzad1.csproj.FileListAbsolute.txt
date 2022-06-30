@@ -1,0 +1,30 @@
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\bin\Debug\WPFzad1.exe.config
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\bin\Debug\WPFzad1.exe
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\bin\Debug\WPFzad1.pdb
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\App.g.cs
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1_MarkupCompile.cache
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1_MarkupCompile.lref
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\MainWindow.baml
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.g.resources
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.Properties.Resources.resources
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.exe
+C:\Users\mateu\source\repos\WPFzad1\WPFzad1\obj\Debug\WPFzad1.pdb
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\bin\Debug\WPFzad1.exe.config
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\bin\Debug\WPFzad1.exe
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\bin\Debug\WPFzad1.pdb
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\App.g.cs
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1_MarkupCompile.cache
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1_MarkupCompile.lref
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\MainWindow.baml
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.g.resources
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.exe
+C:\Users\mateu\OneDrive\Pulpit\studia inf inz\wpf zad\WPFzad1\WPFzad1\WPFzad1\obj\Debug\WPFzad1.pdb
